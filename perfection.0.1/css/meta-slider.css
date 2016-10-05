@@ -1,0 +1,22 @@
+/* Meta-slider css*/
+
+#main-slider{
+
+	width:100%;
+	float:left;
+}
+
+#main-slider .metaslider .flexslider{
+
+	margin-bottom: 0;
+}
+
+#main-slider .metaslider .caption{
+
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 5px 0;
+}
+
+#main-slider .metaslider .nivo-caption{
+}

@@ -1,0 +1,130 @@
+// Style.scss
+
+@import 'https://fonts.googleapis.com/css?family=Comfortaa';
+
+
+
+.default-header{
+
+	.header-menu{
+
+		ul{
+
+			margin:0;
+			padding:0;
+
+			li{
+
+				display: inline-block;
+				padding: 0 20px;
+				background: black;
+				margin:0;
+				float:left;
+
+				a{
+
+					color:#fff;
+					text-decoration: none;
+				}
+			}
+		}
+	}
+}
+
+table{
+
+	tr{
+
+		td{
+
+			border:1px solid black;
+		}
+	}
+}
+
+
+.default-header .menu li{
+
+	display: inline-block;
+}
+
+body{
+
+	#header{
+
+		background:#fff;
+		float:left;
+		width:100%;
+		border-bottom: 2px solid #000;
+
+		.logo{
+
+			float:left;
+		}
+
+		.header-menu{
+
+			margin-top:140px;
+			float: left;
+		}
+
+		#header-sidebar{
+
+			float:right;
+
+			h2{
+
+				color:#000;
+			}
+		}
+	}
+
+	#footer{
+
+		background:#000;
+		color:#fff;
+	}
+}
+
+.page .category-nieuwsberichten{
+
+	width:calc(33.333% - 27px);
+	float:left;
+	margin: 0 20px;
+	margin-top:20px;
+
+	&:nth-child(3n+1){
+
+		margin-left:0!important;
+	}
+
+	&:nth-child(3n+3){
+
+		margin-right: 0!important;
+	}
+
+	img{
+
+		width:100%;
+	}
+
+}
+
+.single .category-nieuwsberichten{
+
+	width:100%;
+	float:left;
+}
+
+.widget_sow-editor{
+
+	p{
+
+		font-family: 'Comfortaa', cursive!important;
+
+		span{
+
+			font-family: 'Comfortaa', cursive;
+		}
+	}
+}

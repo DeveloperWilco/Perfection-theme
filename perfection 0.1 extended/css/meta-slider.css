@@ -1,0 +1,28 @@
+/* Meta-slider css*/
+
+/* Meta-slider standards */
+#main-slider {
+	float:left;
+	width:100%;
+}
+
+/* Meta-slider Margin-bottom */
+#main-slider .flexslider {
+	margin-bottom: 0;
+}
+
+/* Meta-slider Caption Limit */
+#main-slider .caption {
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 5px 0;
+}
+
+/* Meta-slider Arrows */
+#main-slider .flex-prev {
+	left: 0;
+}
+
+#main-slider .flex-next {
+	right: 0;
+}

@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Special+Elite|Yatra+One');
+
+/* Header styles */
+header {
+	background: #fff;
+	box-shadow: 0 0 5px #000;
+}
+
+.icon-icon-box {
+	background: #ea1d76;
+}
+
+/* Header menu styles */
+.header-menu .menu > li > a{
+	padding: 29px 30px;
+	color: #000;
+	text-transform: uppercase;
+}
+
+.header-menu .menu > li > ul > li{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.header-menu .menu > li > ul > li:first-child{
+	margin-top: 1px;
+}
+
+.header-menu .menu > li > ul > li > a{
+	color: #fff;
+}
+
+body{
+	font-family: 'Special Elite', cursive;
+}
+
+#primary{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Slider styles */
+#main-slider .caption-wrap {
+	background: transparent;
+	bottom: calc(50% - 50px);
+}
+
+#main-slider .caption {
+	text-align: center;
+}
+
+#main-slider h1{
+	text-transform: uppercase;
+	font-size: 50px;
+	line-height: 50px;
+	color: #fff;
+	text-shadow: 2px 2px 0 #000;
+}
+
+#main-slider h2 {
+	text-transform: uppercase;
+	font-size: 32px;
+	line-height: 32px;
+	color: #fff;
+	text-shadow: 2px 2px 0 #000;
+}
+
+#main-slider h3{
+	font-weight: 100;
+	font-style: italic;
+	color: #fff;
+	font-size: 20px;
+	text-shadow: 2px 2px 0 #000;
+}
+
+#main-slider p{
+	color: #fff;
+	margin: 0;
+	text-shadow: 2px 2px 1px #000;
+}
+
+#main-slider .limit-perfection{
+	position: relative;
+}
+
+#main-slider .content{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Widgets styles */
+.widget_siteorigin-panels-postloop article{
+	width: calc(33.333% - 27px);
+	float: left;
+	margin: 20px 20px 0 20px;
+}
+
+.widget_siteorigin-panels-postloop article img{
+	width: 100%;
+}
+
+.widget_siteorigin-panels-postloop article:nth-of-type(3n+1){
+	margin-left: 0;
+}
+
+.widget_siteorigin-panels-postloop article:nth-of-type(3n+3){
+	margin-right: 0;
+}
+
+.pagination{
+	width: 100%;
+	float: left;
+}
+
+.pagination > div > a{
+	padding: 0 20px;
+	background: #000;
+	color: #fff;
+	text-decoration: none;
+}
+
+.pagination .nav-previous{
+	float: left;
+}
+
+.pagination .nav-next{
+	float: right;
+}
+
+/* Footer styles */
+footer {
+	background: #fff;
+	border-top: 2px solid #000;
+}
+
+.perfection-breadcrumbs{
+	width: 100%;
+	display: inline-block;
+	margin-top: 10px;
+}
+

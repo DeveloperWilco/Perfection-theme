@@ -1,0 +1,696 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfection\n"
+"POT-Creation-Date: 2016-11-22 09:29+0100\n"
+"PO-Revision-Date: 2016-11-22 10:31+0100\n"
+"Last-Translator: Wilco <developerwilco@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: 404.php:22
+msgid "Sorry"
+msgstr "Sorry"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Het lijkt erop dat deze pagina niet (meer) bestaat. Misschien helpt een "
+"zoekopdracht?"
+
+#: author.php:24
+msgid "No posts by this author."
+msgstr "Geen berichten van deze auteur."
+
+#: functions.php:74
+msgid "Header Menu(primary)"
+msgstr "Hoofd menu(primary)"
+
+#: functions.php:117
+msgid "Reply"
+msgstr "Reageer"
+
+#: functions.php:228 theme-settings/customizer-settings.php:326
+#: theme-settings/customizer-settings.php:349 theme-settings/customizer.php:66
+#: theme-settings/customizer.php:658 theme-settings/customizer.php:685
+msgid "None"
+msgstr "Geen"
+
+#: functions.php:230
+msgid "Demo Slider"
+msgstr "Demo Slider"
+
+#: functions.php:240
+msgid "Slider: "
+msgstr "Slider:"
+
+#: functions.php:250
+msgid "Perfection (Flex)"
+msgstr "Perfection (Flex)"
+
+#: functions.php:292
+msgid "Page Meta Slider"
+msgstr "Pagina Meta Slider"
+
+#: functions.php:312
+msgid "Display Page Meta Slider"
+msgstr "Pagina Meta Slider"
+
+#: functions.php:322
+msgid "Stretch Page Meta Slider"
+msgstr "Stretch Pagina Meta Slider"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Zoeken"
+
+#: slider/demo.php:9
+msgid "Demo Slide"
+msgstr "Demo Slider"
+
+#: templates/template-notitle.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=“meta-nav”>&rarr;</span>"
+
+#: templates/template-notitle.php:27
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: theme-settings/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installeer verplichte plugins"
+
+#: theme-settings/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: theme-settings/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Het installeren van Plugin: %s"
+
+#: theme-settings/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: theme-settings/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets misgegaan met de plugin API."
+
+#: theme-settings/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plugin moet worden bijgewerkt naar de nieuwste versie voor "
+"maximale compatibiliteit met dit thema: %1$s."
+msgstr[1] ""
+"De volgende plugins moeten worden bijgewerkt naar hun nieuwste versie voor "
+"maximale compatibiliteit met dit thema: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende benodigde plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende benodigde plugins zijn momenteel inactief: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel inactief: %1$s."
+
+#: theme-settings/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginnen met het installeren van de plugin"
+msgstr[1] "Beginnen met het installeren van de plugins"
+
+#: theme-settings/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginnen met bijwerken van de plugin"
+msgstr[1] "Beginnen met bijwerken van de plugins"
+
+#: theme-settings/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginnen met het activeren van de plugin"
+msgstr[1] "Beginnen met het activeren van de plugins"
+
+#: theme-settings/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar verplichte plugins installer"
+
+#: theme-settings/class-tgm-plugin-activation.php:386
+#: theme-settings/class-tgm-plugin-activation.php:827
+#: theme-settings/class-tgm-plugin-activation.php:2533
+#: theme-settings/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Ga terug naar het Dashboard"
+
+#: theme-settings/class-tgm-plugin-activation.php:387
+#: theme-settings/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "﻿Plugin geactiveerd."
+
+#: theme-settings/class-tgm-plugin-activation.php:388
+#: theme-settings/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is geactiveerd:"
+msgstr[1] "De volgende plugins zijn geactiveerd:"
+
+#: theme-settings/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al geactiveerd."
+
+#: theme-settings/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"De plugin is niet geactiveerd. Een nieuwere versie van %s is noodzakelijk "
+"voor dit thema. Werk de plugin bij."
+
+#: theme-settings/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn geïnstalleerd en succesvol geactiveerd. %1$s"
+
+#: theme-settings/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Meldingen negeren"
+
+#: theme-settings/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn één of meer plugins benodigd of aanbevolen om te installeren, "
+"updaten of activeren."
+
+#: theme-settings/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem alstublieft contact op met de systeembeheerder."
+
+#: theme-settings/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Deze plugin moet worden bijgewerkt om compatibel met het thema te zijn."
+
+#: theme-settings/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Verplicht bij te werken"
+
+#: theme-settings/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Het externe plugin pakket bevat geen folder met de gewenste slug en "
+"hernoemen heeft niet gewerkt."
+
+#: theme-settings/class-tgm-plugin-activation.php:934
+#: theme-settings/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Neem contact op met de plugin-provider en vraag hem om de plugin te "
+"verpakken volgens de WordPress-richtlijnen."
+
+#: theme-settings/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Het externe plugin pakket bestaat uit meer dan één bestand, maar de "
+"bestanden zijn niet ingepakt in een map."
+
+#: theme-settings/class-tgm-plugin-activation.php:1121
+#: theme-settings/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: theme-settings/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: theme-settings/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Verplicht"
+
+#: theme-settings/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: theme-settings/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: theme-settings/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe Bron"
+
+#: theme-settings/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: theme-settings/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: theme-settings/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet Geactiveerd"
+
+#: theme-settings/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actief"
+
+#: theme-settings/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Vereiste update niet Beschikbaar"
+
+#: theme-settings/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Update Vereist"
+
+#: theme-settings/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update Aanbevolen"
+
+#: theme-settings/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: theme-settings/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: theme-settings/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren <span class=\"count\">(%s)</span>"
+
+#: theme-settings/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#: theme-settings/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te activeren <span class=\"count\">(%s)</span>"
+
+#: theme-settings/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: theme-settings/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: theme-settings/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimale benodigde versie:"
+
+#: theme-settings/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: theme-settings/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te installeren, updaten of activeren"
+
+#: theme-settings/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: theme-settings/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Bron"
+
+#: theme-settings/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: theme-settings/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versie"
+
+#: theme-settings/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: theme-settings/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Installeren %2$s"
+
+#: theme-settings/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: theme-settings/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#: theme-settings/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade melding van de plugin-auteur:"
+
+#: theme-settings/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installeren"
+
+#: theme-settings/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Bijwerken"
+
+#: theme-settings/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activeren"
+
+#: theme-settings/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Er zijn geen plugins geselecteerd om te installeren. Er is geen actie "
+"ondernomen."
+
+#: theme-settings/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Er zijn geen plugins geselecteerd om te updaten. Er is geen actie ondernomen."
+
+#: theme-settings/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Momenteel zijn er geen plugins om te installeren"
+
+#: theme-settings/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Momenteel zijn er geen plugins om te updaten."
+
+#: theme-settings/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Er zijn geen plugins geselecteerd om te activeren. Geen actie ondernomen."
+
+#: theme-settings/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Momenteel zijn er geen plugins om te activeren."
+
+#: theme-settings/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Activering van de plugin is mislukt."
+
+#: theme-settings/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updaten van Plugin %1$s (%2$d/%3$d)"
+
+#: theme-settings/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren %1$s: <strong>%2$s</"
+"strong>."
+
+#: theme-settings/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Het installeren van %1$s is mislukt."
+
+#: theme-settings/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het proces van installeren en activeren is gestart. Dit proces kan enige "
+"tijd in beslag nemen bij sommige hosts. Een ogenblik geduld…"
+
+#: theme-settings/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s met succes geïnstalleerd en geactiveerd."
+
+#: theme-settings/class-tgm-plugin-activation.php:3509
+#: theme-settings/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Details weergeven"
+
+#: theme-settings/class-tgm-plugin-activation.php:3509
+#: theme-settings/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: theme-settings/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#: theme-settings/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#: theme-settings/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces is gestart. Dit proces kan enige tijd in beslag nemen "
+"bij sommige hosts. Een ogenblik geduld…"
+
+#: theme-settings/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s is met succes geïnstalleerd."
+
+#: theme-settings/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#: theme-settings/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren van Plugin %1$s (%2$d/%3$d)"
+
+#: theme-settings/customizer-settings.php:279
+msgid "default"
+msgstr "Standaard"
+
+#: theme-settings/customizer-settings.php:280
+msgid "empty"
+msgstr "Leeg"
+
+#: theme-settings/customizer-settings.php:509
+msgid "search"
+msgstr "zoek"
+
+#: theme-settings/customizer.php:30
+msgid "Theme Options"
+msgstr "Thema-opties"
+
+#: theme-settings/customizer.php:31
+msgid "Such options, Much power, wow"
+msgstr "Such options, Much power, wow"
+
+#: theme-settings/customizer.php:38
+msgid "General"
+msgstr "Algemeen"
+
+#: theme-settings/customizer.php:83
+msgid "Read more text"
+msgstr "'Read more' tekst"
+
+#: theme-settings/customizer.php:96
+msgid "Next page text"
+msgstr "Volgende"
+
+#: theme-settings/customizer.php:109
+msgid "Previous page text"
+msgstr "Vorige"
+
+#: theme-settings/customizer.php:122
+msgid "Singlepost Metaslider"
+msgstr "Singlepost Metaslider"
+
+#: theme-settings/customizer.php:128
+msgid "Select singlepost metaslider"
+msgstr "Selecteer singlepost metaslider"
+
+#: theme-settings/customizer.php:137
+msgid "Enable default styles"
+msgstr "Activeer Standaard Stijl"
+
+#: theme-settings/customizer.php:150
+msgid "Header"
+msgstr "Header"
+
+#: theme-settings/customizer.php:202
+msgid "Select Header template"
+msgstr "Selecteer Header sjabloon"
+
+#: theme-settings/customizer.php:216
+msgid "Limit logo height"
+msgstr "Standaard logo hoogte"
+
+#: theme-settings/customizer.php:229
+msgid "Sticky menu"
+msgstr "Sticky menu"
+
+#: theme-settings/customizer.php:242
+msgid "Sticky menu auto margin"
+msgstr "Sticky menu auto-marge"
+
+#: theme-settings/customizer.php:255
+msgid "Search in header"
+msgstr "Toon Zoekbalk in Header"
+
+#: theme-settings/customizer.php:268
+msgid "Search background color"
+msgstr "Zoeken achtergrondkleur"
+
+#: theme-settings/customizer.php:279
+msgid "Back to top"
+msgstr "Back to top"
+
+#: theme-settings/customizer.php:338
+msgid "Back to top button"
+msgstr "Back to top button"
+
+#: theme-settings/customizer.php:351
+msgid "Button Color"
+msgstr "Knop kleur"
+
+#: theme-settings/customizer.php:363
+msgid "Button hover Color"
+msgstr "Knop Hover Kleur"
+
+#: theme-settings/customizer.php:375
+msgid "Icon Color"
+msgstr "Icoonkleur"
+
+#: theme-settings/customizer.php:387
+msgid "Button hover Icon color"
+msgstr "Knop hover Icoonkleur"
+
+#: theme-settings/customizer.php:399
+msgid "Back to top Font awesome"
+msgstr "Back to top Font awesome"
+
+#: theme-settings/customizer.php:404 theme-settings/customizer.php:560
+msgid "Click to select an Icon"
+msgstr "Selecteer Icon"
+
+#: theme-settings/customizer.php:413
+msgid "Back to top speed"
+msgstr "Back to top Snelheid"
+
+#: theme-settings/customizer.php:419
+msgid "Slow"
+msgstr "Traag"
+
+#: theme-settings/customizer.php:420
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: theme-settings/customizer.php:421
+msgid "Fast"
+msgstr "Snel"
+
+#: theme-settings/customizer.php:430
+msgid "Breadcrumbs"
+msgstr "Broodkruimelpad"
+
+#: theme-settings/customizer.php:454
+msgid "Activate breadcrumbs"
+msgstr "Activeer Broodkruimelpad"
+
+#: theme-settings/customizer.php:467
+msgid "breadcrumbs separator"
+msgstr "Scheidingsteken"
+
+#. Theme Name of the plugin/theme
+msgid "Perfection"
+msgstr "Perfection"
+
+#. Theme URI of the plugin/theme
+msgid "www.buro210.nl"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Perfect theme for any developer"
+msgstr "Perfect thema voor een ontwikkelaar"
+
+#. Author of the plugin/theme
+msgid "wilcodeveloper"
+msgstr "wilcodeveloper"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/support/users/wilcodeveloper"
+msgstr "https://WordPress.org/support/users/wilcodeveloper"
